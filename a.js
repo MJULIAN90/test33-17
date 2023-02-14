@@ -5,7 +5,10 @@ const suma = (a, b) => {
     return a + b;
 }
 
+const hola = 'hola';
 
-const suma2 = (a, b) => {
+const chao = 'chao';
+
+const suma = (a, b) => {
     return a + b;
 }
